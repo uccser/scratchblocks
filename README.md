@@ -2,6 +2,13 @@
 
 - Adds `viewBox` attribute to SVGs for easy CSS scaling.
 - Incorporates [fix from exKAZUu](https://github.com/scratchblocks/scratchblocks/pull/301) to fix sizing of SVG elements.
+- Includes built files within the `build/` directory with these changes.
+
+To install this version in a `package.json` file, use the following line within `dependencies`\\`devDependencies`:
+
+```json
+"scratchblocks": "uccser/scratchblocks#master"
+```
 
 ---
 
