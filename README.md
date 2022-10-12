@@ -1,3 +1,7 @@
+### This respository is now archived as the changes below have been incorporated into the [main repository](https://github.com/scratchblocks/scratchblocks)
+
+---
+
 **This respository is a fork from the [main repository](https://github.com/scratchblocks/scratchblocks) with the following changes:**
 
 - Adds `viewBox` attribute to SVGs for easy CSS scaling.
